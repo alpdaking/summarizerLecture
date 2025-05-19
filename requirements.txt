@@ -1,0 +1,3 @@
+transformers
+torch
+sentencepiece  # for T5/BART tokenizer support
